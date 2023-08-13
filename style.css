@@ -4,7 +4,7 @@
     width: 50%;
     left: 20%;
     margin: 80px;
-    min-height: 1150px;
+    min-height: 1550px;
     background-color: white;
 }
 
@@ -12,12 +12,12 @@ header{
     position: relative;
     background-color: black;
     width: max;
-    height: 250px;
+    height: 260px;
     padding: 10px;
 }
 
 .Title{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
     color: white;
     padding: 50px;
     position: relative;
@@ -77,6 +77,11 @@ body{
 }
 
 .Works{
+    padding-left: 50px;
+    font-weight: 500;
+}
+
+.Languages{
     padding-left: 50px;
     font-weight: 500;
 }
