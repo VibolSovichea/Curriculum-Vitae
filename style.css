@@ -85,3 +85,12 @@ body{
     padding-left: 50px;
     font-weight: 500;
 }
+
+.video{
+     position: relative;
+    border-radius: 100px;
+    width: 60%;
+    left: 18%;
+    margin: 80px;
+    min-height: 15px;
+}
